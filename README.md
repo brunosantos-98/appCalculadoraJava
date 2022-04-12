@@ -1,2 +1,4 @@
 # appCalculadora
-App de calculadora utilizando Java
+
+Aplicativo de operações matemáticas para sistemas Android, usando Java.
+
